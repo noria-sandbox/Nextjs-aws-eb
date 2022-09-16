@@ -1,4 +1,4 @@
-name: CI-CI-Pipeline-AWS-EB
+name: CI/CD Pipelines - AWS EB
 env:
   EB_S3_BUCKET_NAME: "noria-sandbox-eb"
   EB_APPLICATION_NAME: "Next-EB"
